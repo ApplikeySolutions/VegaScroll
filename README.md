@@ -8,7 +8,7 @@ Made by [Applikey Solutions](https://applikeysolutions.com)
 
 Find this [project on Dribbble](https://dribbble.com/shots/3793079-iPhone-8-iOS-11)
 
-![VegaScrollFlowLayout](https://www.dropbox.com/s/x7368sdxk7sg3ko/vega-scroll.png?dl=1)
+![VegaScrollFlowLayout](https://photos-6.dropbox.com/t/2/AAAckiyNHTDXnwIWf0Nxd4s8nlO5rey8q6RqDfdAOusquQ/12/368904563/png/32x32/1/_/1/2/vega-scroll.png/ENnP6vQCGN6JEiAHKAc/UBcZc0It4XzVmyNsMQ5NKZxfOF5t6nMZx_5ZVzJQJm4?size=2048x1536&size_mode=3)
 
 # Table of Contents
 1. [Purpose](#purpose)
