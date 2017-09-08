@@ -8,7 +8,7 @@ Made by [Applikey Solutions](https://applikeysolutions.com)
 
 Find this [project on Dribbble](https://dribbble.com/shots/3793079-iPhone-8-iOS-11)
 
-![VegaScrollFlowLayout](https://f.flockusercontent2.com/efdbfa91504878847ab4b125_t)
+![VegaScrollFlowLayout](https://f.flockusercontent2.com/dc4259a150487963694def6f_t)
 
 # Table of Contents
 1. [Purpose](#purpose)
