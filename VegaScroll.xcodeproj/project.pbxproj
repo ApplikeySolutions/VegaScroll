@@ -12,7 +12,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		DD52B85C1F6AC89B00E2AD33 /* VegaScrollFlowLayout.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = VegaScrollFlowLayout.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		DD52B85C1F6AC89B00E2AD33 /* VegaScroll.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = VegaScroll.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		DD52B85F1F6AC89B00E2AD33 /* VegaScrollFlowLayout.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = VegaScrollFlowLayout.h; sourceTree = "<group>"; };
 		DD52B8601F6AC89B00E2AD33 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DD52B8691F6AC8DD00E2AD33 /* VegaScrollFlowLayout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VegaScrollFlowLayout.swift; sourceTree = "<group>"; };
@@ -32,7 +32,7 @@
 		DD52B8521F6AC89B00E2AD33 = {
 			isa = PBXGroup;
 			children = (
-				DD52B85E1F6AC89B00E2AD33 /* VegaScrollFlowLayout */,
+				DD52B85E1F6AC89B00E2AD33 /* VegaScroll */,
 				DD52B85D1F6AC89B00E2AD33 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -40,18 +40,18 @@
 		DD52B85D1F6AC89B00E2AD33 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				DD52B85C1F6AC89B00E2AD33 /* VegaScrollFlowLayout.framework */,
+				DD52B85C1F6AC89B00E2AD33 /* VegaScroll.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		DD52B85E1F6AC89B00E2AD33 /* VegaScrollFlowLayout */ = {
+		DD52B85E1F6AC89B00E2AD33 /* VegaScroll */ = {
 			isa = PBXGroup;
 			children = (
 				DD52B8671F6AC8DD00E2AD33 /* Classes */,
 				DD52B86A1F6AC90200E2AD33 /* Framework */,
 			);
-			path = VegaScrollFlowLayout;
+			path = VegaScroll;
 			sourceTree = "<group>";
 		};
 		DD52B8671F6AC8DD00E2AD33 /* Classes */ = {
@@ -85,9 +85,9 @@
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		DD52B85B1F6AC89B00E2AD33 /* VegaScrollFlowLayout */ = {
+		DD52B85B1F6AC89B00E2AD33 /* VegaScroll */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = DD52B8641F6AC89B00E2AD33 /* Build configuration list for PBXNativeTarget "VegaScrollFlowLayout" */;
+			buildConfigurationList = DD52B8641F6AC89B00E2AD33 /* Build configuration list for PBXNativeTarget "VegaScroll" */;
 			buildPhases = (
 				DD52B8571F6AC89B00E2AD33 /* Sources */,
 				DD52B8581F6AC89B00E2AD33 /* Frameworks */,
@@ -98,9 +98,9 @@
 			);
 			dependencies = (
 			);
-			name = VegaScrollFlowLayout;
+			name = VegaScroll;
 			productName = VegaScrollFlowLayout;
-			productReference = DD52B85C1F6AC89B00E2AD33 /* VegaScrollFlowLayout.framework */;
+			productReference = DD52B85C1F6AC89B00E2AD33 /* VegaScroll.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -118,7 +118,7 @@
 					};
 				};
 			};
-			buildConfigurationList = DD52B8561F6AC89B00E2AD33 /* Build configuration list for PBXProject "VegaScrollFlowLayout" */;
+			buildConfigurationList = DD52B8561F6AC89B00E2AD33 /* Build configuration list for PBXProject "VegaScroll" */;
 			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -130,7 +130,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				DD52B85B1F6AC89B00E2AD33 /* VegaScrollFlowLayout */,
+				DD52B85B1F6AC89B00E2AD33 /* VegaScroll */,
 			);
 		};
 /* End PBXProject section */
@@ -279,7 +279,7 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = VegaScrollFlowLayout/Framework/Info.plist;
+				INFOPLIST_FILE = VegaScroll/Framework/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = br.com.guilhermerambo.VegaScrollFlowLayout;
@@ -299,7 +299,7 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = VegaScrollFlowLayout/Framework/Info.plist;
+				INFOPLIST_FILE = VegaScroll/Framework/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = br.com.guilhermerambo.VegaScrollFlowLayout;
@@ -313,7 +313,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		DD52B8561F6AC89B00E2AD33 /* Build configuration list for PBXProject "VegaScrollFlowLayout" */ = {
+		DD52B8561F6AC89B00E2AD33 /* Build configuration list for PBXProject "VegaScroll" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DD52B8621F6AC89B00E2AD33 /* Debug */,
@@ -322,7 +322,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		DD52B8641F6AC89B00E2AD33 /* Build configuration list for PBXNativeTarget "VegaScrollFlowLayout" */ = {
+		DD52B8641F6AC89B00E2AD33 /* Build configuration list for PBXNativeTarget "VegaScroll" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DD52B8651F6AC89B00E2AD33 /* Debug */,

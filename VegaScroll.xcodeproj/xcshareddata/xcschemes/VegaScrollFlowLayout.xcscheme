@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "DD52B85B1F6AC89B00E2AD33"
-               BuildableName = "VegaScrollFlowLayout.framework"
-               BlueprintName = "VegaScrollFlowLayout"
-               ReferencedContainer = "container:VegaScrollFlowLayout.xcodeproj">
+               BuildableName = "VegaScroll.framework"
+               BlueprintName = "VegaScroll"
+               ReferencedContainer = "container:VegaScroll.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -48,9 +48,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "DD52B85B1F6AC89B00E2AD33"
-            BuildableName = "VegaScrollFlowLayout.framework"
-            BlueprintName = "VegaScrollFlowLayout"
-            ReferencedContainer = "container:VegaScrollFlowLayout.xcodeproj">
+            BuildableName = "VegaScroll.framework"
+            BlueprintName = "VegaScroll"
+            ReferencedContainer = "container:VegaScroll.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -66,9 +66,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "DD52B85B1F6AC89B00E2AD33"
-            BuildableName = "VegaScrollFlowLayout.framework"
-            BlueprintName = "VegaScrollFlowLayout"
-            ReferencedContainer = "container:VegaScrollFlowLayout.xcodeproj">
+            BuildableName = "VegaScroll.framework"
+            BlueprintName = "VegaScroll"
+            ReferencedContainer = "container:VegaScroll.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>
