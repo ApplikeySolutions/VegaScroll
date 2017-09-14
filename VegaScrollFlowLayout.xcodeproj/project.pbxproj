@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		DD52B8611F6AC89B00E2AD33 /* VegaScrollFlowLayout.h in Headers */ = {isa = PBXBuildFile; fileRef = DD52B85F1F6AC89B00E2AD33 /* VegaScrollFlowLayout.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		DD52B88D1F6ACD1D00E2AD33 /* VegaScrollFlowLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD52B8691F6AC8DD00E2AD33 /* VegaScrollFlowLayout.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -149,6 +150,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DD52B88D1F6ACD1D00E2AD33 /* VegaScrollFlowLayout.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
