@@ -24,7 +24,7 @@ open class VegaScrollFlowLayout: UICollectionViewFlowLayout {
     
     // MARK: - Initialization
     
-    override init() {
+    override public init() {
         super.init()
         initialize()
     }
