@@ -6,14 +6,13 @@
 //  Copyright (c) 2017 ihahanov. All rights reserved.
 //
 
-import VegaScrollFlowLayout
+import UIKit
 
 // MARK: - Configurable constants
 private let itemHeight: CGFloat = 84
 private let lineSpacing: CGFloat = 20
 private let xInset: CGFloat = 20
 private let topInset: CGFloat = 10
-// 
 
 class FeedViewController: UIViewController {
 	fileprivate let cellId = "ShareCell"
@@ -33,7 +32,6 @@ class FeedViewController: UIViewController {
 	private func setUpNavBar() {
 		navigationItem.title = "Feed"
 		navigationController?.view.backgroundColor = UIColor.white
-		
 		if #available(iOS 11.0, *) {
 			navigationController?.navigationBar.prefersLargeTitles = true
 		}
@@ -50,7 +48,8 @@ class FeedViewController: UIViewController {
 }
 
 extension FeedViewController: UICollectionViewDataSource, UICollectionViewDelegate {
-	func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
+	func collectionView(_ collectionView: UICollectionView,
+                        cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
 		let cell = collectionView.dequeueReusableCell(withReuseIdentifier: cellId, for: indexPath) as! ShareCell
 		let share = shares[indexPath.row]
 		cell.configureWith(share)

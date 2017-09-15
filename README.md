@@ -36,6 +36,12 @@ Add the following line in your `Podfile`.
 ```
 pod "VegaScrollFlowLayout"
 ```
+### Carthage
+If you're using [Carthage](https://github.com/Carthage/Carthage) you can add a dependency on VegaScroll by adding it to your `Cartfile`:
+
+```
+github "AppliKeySolutions/VegaScroll"
+```
 
 # Usage
 
