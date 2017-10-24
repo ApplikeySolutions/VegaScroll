@@ -22,7 +22,7 @@ Find this [project on Dribbble](https://dribbble.com/shots/3793079-iPhone-8-iOS-
 
 # Purpose
 
-VegaScroll is a lightweight animation flowlayot for UICollectionView completely written in Swift 4, compatible with iOS 11 and xCode 9. 
+VegaScroll is a lightweight animation flowlayout for `UICollectionView` completely written in Swift 4, compatible with iOS 11 and Xcode 9. 
 
 
 # Supported OS & SDK Versions
