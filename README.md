@@ -8,6 +8,8 @@ Made by [Applikey Solutions](https://applikeysolutions.com)
 
 Find this [project on Dribbble](https://dribbble.com/shots/3793079-iPhone-8-iOS-11)
 
+Also check another flowlayout for UICollectionView: https://github.com/ApplikeySolutions/GravitySlider
+
 ![VegaScrollFlowLayout](https://f.flockusercontent2.com/dc4259a150487963694def6f_t)
 
 # Table of Contents
@@ -34,7 +36,7 @@ VegaScroll is a lightweight animation flowlayout for `UICollectionView` complete
 ### [CocoaPods](https://github.com/CocoaPods/CocoaPods)
 Add the following line in your `Podfile`.
 ```
-pod "VegaScrollFlowLayout"
+pod 'VegaScrollFlowLayout'
 ```
 ### Carthage
 If you're using [Carthage](https://github.com/Carthage/Carthage) you can add a dependency on VegaScroll by adding it to your `Cartfile`:
