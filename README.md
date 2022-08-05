@@ -29,7 +29,7 @@ VegaScroll is a lightweight animation flowlayout for `UICollectionView` complete
 
 # Supported OS & SDK Versions
 
-* Supported build target - iOS 9.0
+* Supported build target - iOS 11.0
 
 # Installation
 
